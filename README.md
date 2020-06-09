@@ -8,6 +8,10 @@ This example is to show stuff
 
 ## Purpose
 
+Purpose text
+
 ## Deployment
+
+Deployment Section Updated Locally
 
 ## How To Contribute
