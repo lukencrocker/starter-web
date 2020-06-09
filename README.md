@@ -15,3 +15,8 @@ Purpose text
 Deployment Section Updated Locally
 
 ## How To Contribute
+
+
+###Copyright
+
+2014 Git training
