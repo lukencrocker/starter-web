@@ -16,6 +16,8 @@ Deployment Section Updated Locally
 
 ## How To Contribute
 
+Please fork and then issue pull requests for review
+
 
 ###Copyright
 
