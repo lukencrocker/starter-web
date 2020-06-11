@@ -22,4 +22,4 @@ Please fork and then issue pull requests for review
 
 ###Copyright
 
-2014 Git training
+2014 Git training. All rights reserved.
